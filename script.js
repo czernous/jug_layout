@@ -171,6 +171,7 @@
             </svg>            
             <span class="message">Спасибо, что поделились!</span>
             `;
+            questionsReject.style.justifyContent = 'center';
             event.stopPropagation();
           });
         });
