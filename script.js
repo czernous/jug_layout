@@ -181,6 +181,7 @@
             <span class="message">Спасибо, что подписались на нашу рассылку!</span>
           </div>
           `;
+          questionsSignup.style.justifyContent = 'center';
         });
       })();
       (function closeModal() {
